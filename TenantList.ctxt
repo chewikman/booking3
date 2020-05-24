@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TenantList
+comment0.text=\r\n\ This\ class\ helps\ to\ store\ and\ retrieve\ tenants\ details\ in\ file\ text.\ It\ stores\ them\ in\ arrayList\r\n\ and\ hashtable.\ There\ are\ methods\ that\ add\ tenants,\ remove\ and\ search.\r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=
+comment2.target=void\ initSearchTenant()
+comment3.params=title\ firstName\ lastName\ adults\ miniors\ noDays\ rm\ writeData
+comment3.target=void\ addTenant(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ boolean)
+comment4.params=index
+comment4.target=void\ removeTenant(int)
+comment5.params=a
+comment5.target=int\ getTenantObject(int)
+numComments=6

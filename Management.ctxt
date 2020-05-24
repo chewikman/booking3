@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Management
+comment0.text=this\ class\ helps\ to\ display\ four\ buttons,\ Add\ tenants,\ Remove\ tenant,\ Search\ Tenant\ and\ Make\r\n\ an\ payment\ \ \r\n\ \r\n\ \r\n
+comment1.params=
+comment1.target=javax.swing.JButton\ getRetrnMenu()
+comment2.params=
+comment2.target=javax.swing.JButton\ getAddTenants()
+comment3.params=
+comment3.target=javax.swing.JButton\ getRemovetenantsButton()
+comment4.params=
+comment4.target=javax.swing.JButton\ getSearchTenant()
+comment5.params=
+comment5.target=javax.swing.JButton\ getMakeAPayment()
+comment6.params=o
+comment6.target=javax.swing.JPanel\ Container(java.lang.Object)
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RemoveTenant
+comment0.text=\r\n\ The\ remove\ tenant\ class\ delets\ the\ tenant\ from\ text\ file.\ \r\n\ The\ user\ will\ need\ to\ press\ the\ remove\ tenant\ button\ to\ delete\ the\ person.\ \r\n\ A\ JList\ is\ used\ to\ displays\ all\ details\ of\ tenants\ that\ have\ been\ added\ previously\ or\ subsequently\ and\ a\ refresh\ button\ is\ used\ to\ update\ the\ JList.\ \r\n\ Once\ the\ user\ has\ pressed\ the\ refresh\ button,\ \r\n\ it\ will\ display\ list\ of\ tenant\ objects\ with\ their\ room\ number.\ \r\n\ The\ the\ user\ can\ then\ select\ the\ object\ of\ that\ particular\ tenant\ and\ once\ it\ been\ highlighted,\ \r\n\ the\ user\ can\ press\ the\ remove\ tenant\ button\ to\ delete.\ \r\n\ \r\n
+comment1.params=
+comment1.target=javax.swing.JButton\ getGoBackButton()
+comment2.params=
+comment2.target=javax.swing.JButton\ getRemoveTennantButton()
+comment3.params=
+comment3.target=javax.swing.JButton\ getRefreshButton()
+comment4.params=o
+comment4.target=javax.swing.JPanel\ Container(java.lang.Object)
+comment5.params=
+comment5.target=void\ remove()
+comment6.params=
+comment6.target=void\ refresh()
+numComments=7

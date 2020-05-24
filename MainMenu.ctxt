@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\ During\ the\ assignment\ it\ was\ difficult\ to\ switch\ different\ JPanels\ and\ \ components\ with\ other\ classes,\r\n\ so\ therefore\ i\ made\ this\ class\ as\ the\ main\ JFrame\ in\ which\ i\ can\ change\ JPanels\r\n\ this\ happens\ through\ the\ use\ of\ CardLayout\ object.\ This\ allows\ me\ switch\ JPanels\ when\ user\ presses\ a\ button.\r\n\ \r\n\ All\ the\ buttons\ \ in\ the\ program\ has\ to\ be\ called\ in\ this\ class\ because\ it\ is\ only\ one\ that\ \r\n\ extends\ JFrame\ and\ implements\ Action\ listener,\ this\ helps\ to\ efficiently\ change\ JPanel\ layouts\ \ \r\n\ \r\n\ I\ used\ \ all\ instance\ objects\ to\ call\ their\ JPanel\ function\ to\ display\ in\ this\ main\ GUI\ panel\r\n\ \r\n
+comment1.params=
+comment1.target=MainMenu()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+numComments=4

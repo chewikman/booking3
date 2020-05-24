@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Booking
+comment0.text=\r\n\ This\ class\ helps\ to\ store\ and\ retrieve\ booking\ details\ in\ file\ text.\ It\ stores\ them\ in\ arrayList\r\n\ .\ There\ are\ methods\ that\ add\ booking,\ remove\ and\ verify\ if\ the\ room\ is\ being\ occupied.\r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=visitor\ roomNumber
+comment2.target=void\ addVisitorRoom(java.lang.String,\ int)
+comment3.params=roomNumber
+comment3.target=void\ RemoveVisitorRoom(int)
+comment4.params=
+comment4.target=void\ UpdateData()
+comment5.params=roomNumber
+comment5.target=boolean\ verify(int)
+numComments=6

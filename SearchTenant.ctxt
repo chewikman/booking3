@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SearchTenant
+comment0.text=\ This\ class\ helps\ to\ find\ particular\ tenant\ from\ the\ Text\ File.\ \r\n\ The\ user\ enters\ exact\ full\ name\ of\ the\ tenant\ to\ see\ their\ details.\ \ \r\n
+comment1.params=
+comment1.target=javax.swing.JButton\ getGoBackButton()
+comment2.params=
+comment2.target=javax.swing.JButton\ getSearchButton()
+comment3.params=
+comment3.target=javax.swing.JButton\ getTennant()
+comment4.params=o
+comment4.target=javax.swing.JPanel\ Container(java.lang.Object)
+comment5.params=
+comment5.target=void\ searchRequest()
+numComments=6

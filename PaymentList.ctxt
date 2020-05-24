@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PaymentList
+comment0.text=\r\n\ This\ class\ helps\ to\ store\ and\ retrieve\ payments\ details\ in\ file\ text.\ It\ stores\ them\ in\ arrayList\r\n\ and\ hashtable.\ There\ are\ methods\ that\ add\ payments,\ remove\ and\ search.\r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=roomNumber
+comment2.target=void\ removePaymentList(int)
+comment3.params=customerName\ nod\ roomNum\ paymentSta\ type\ writeData
+comment3.target=void\ addPayment(java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String,\ boolean)
+comment4.params=roomNumber\ payment\ paymentType
+comment4.target=void\ editPayment(int,\ java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ updatePayment()
+comment6.params=
+comment6.target=void\ initSearchTenant()
+comment7.params=num
+comment7.target=double\ totalCal(int)
+numComments=8
